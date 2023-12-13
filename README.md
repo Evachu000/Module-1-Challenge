@@ -1,5 +1,5 @@
-# Code Refactor Starter Code
-This is a project to imporove both HTML and CSS code that followa accessibility standardsity and optimised for search engines.
+# Code Refactor
+This is a project to imporove both HTML and CSS code that follows accessibility standardsity and optimised for search engines. The client is optimising their website for their marketing business and to promote their services. 
 
 ## Table of Contents
 
@@ -8,45 +8,34 @@ This is a project to imporove both HTML and CSS code that followa accessibility 
 - [Deployment](#deployment)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
-The startup code ha been updated with semantic HTML elements following a logical structure independent of styling and positioning. The accessible alt attributes has been added. 
+The startup code has been updated with semantic HTML elements following a logical structure independent of styling and positioning. The accessible alt attributes has been added. All broken link is fixed. 
 
 ## Screenshots
 
-Include screenshots or GIFs showcasing different aspects of your application. Visuals help users quickly understand what your project looks like and how it works.
+The screenshot of the finial look of the website is attached.
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](/Develop/assets/images/homework.png)
 
 ## Deployment
 
 Provide a link to the deployed version of your application. This could be a live website or a link to where users can access the project.
 
-[Live Demo](https://your-deployment-link.com)
+[Live Demo](https://evachu000.github.io/Module-1-Challenge/index.html)
 
 ## Features
 
-List key features of your application. You can use bullet points for better readability.
-
-- Feature 1
-- Feature 2
-- ...
+N/A
 
 ## Installation
 
-Provide instructions on how to install and set up your project locally. Include any dependencies that need to be installed.
-
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone git@github.com:Evachu000/Module-1-Challenge.git
 
 # Navigate to the project directory
-cd your-repo
+cd Module-1-Challenge
 
-# Install dependencies
-npm install
+
