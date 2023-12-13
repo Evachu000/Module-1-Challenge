@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* Setup the backgroung tone */
 body {
     background-color: #d9dcd6;
 }
-
+/* Setting for the top bar including the NAV */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,9 +53,9 @@ a {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-
 }
 
+/* Setting for contents on the left side */
 p {
     font-size: 16px;
 }
@@ -66,7 +66,7 @@ main {
     margin-left: 20px;
 }
 
-main div {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -75,11 +75,11 @@ main div {
     color: #ffffff;
 }
 
-main div img {
+main section img {
     max-height: 200px;
 }
 
-main div h2 {
+main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 
@@ -95,6 +95,7 @@ main div h2 {
     margin-right: 25px;
 }
 
+/* Setting for the content on the right */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -122,6 +123,7 @@ aside section img {
     max-width: 150px;
 }
 
+/* Setting for the footer */
 footer {
     padding: 30px;
     clear: both;
